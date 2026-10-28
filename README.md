@@ -58,14 +58,14 @@ cargo run --example demo  # renders the JSON above to demo_qr.png
 
 ```toml
 [dependencies]
-qr_creator = { git = "https://github.com/calumk/calumk-qr-creator" }
+qr_creator = { git = "https://github.com/calumk/calumk-rust-qr-creator" }
 ```
 
 Pin a version if you like:
 
 ```toml
 [dependencies]
-qr_creator = { git = "https://github.com/calumk/calumk-qr-creator", tag = "v0.1.0" }
+qr_creator = { git = "https://github.com/calumk/calumk-rust-qr-creator", tag = "v0.1.0" }
 ```
 
 Versioned `cargo install` / `cargo add qr_creator` without a git URL would

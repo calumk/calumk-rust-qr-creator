@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "QR code image generator matching nimiq/qr-creator styling (rounded modules)"
 license = "MIT"
-repository = "https://github.com/calumk/calumk-qr-creator"
+repository = "https://github.com/calumk/calumk-rust-qr-creator"
 homepage = "https://nimiq.github.io/qr-creator/demo/"
 keywords = ["qr", "qrcode", "image", "render"]
 
